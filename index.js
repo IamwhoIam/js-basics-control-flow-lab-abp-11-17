@@ -12,4 +12,3 @@ scuberGreetingForFeet(distanceTravelled) {
     return("No can do.")
   }
 }
-scuberGreetingForFeet(199);
